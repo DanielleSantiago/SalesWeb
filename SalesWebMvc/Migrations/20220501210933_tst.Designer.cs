@@ -11,8 +11,8 @@ using SalesWebMvc.Models;
 namespace SalesWebMvc.Migrations
 {
     [DbContext(typeof(SalesWebMvcContext))]
-    [Migration("20220430224314_Second")]
-    partial class Second
+    [Migration("20220501210933_tst")]
+    partial class tst
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
